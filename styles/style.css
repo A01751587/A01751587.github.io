@@ -297,8 +297,7 @@ body {
 /* Footer */
 
 .footer{
-    background: var(--color-primary);
-
+    background: var(--color-primary)
 }
 
 .footer__grid{
