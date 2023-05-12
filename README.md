@@ -1,7 +1,7 @@
 #  Portfolio
 
 ## Description
-Mu internet Portfolio related to my videogame projects
+My internet Portfolio related to my videogame projects
 
 ## Main Learnings 
 * Https
